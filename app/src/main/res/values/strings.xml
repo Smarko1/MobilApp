@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Órarend</string>
+    <string name="tab_text_1">Hétfő</string>
+    <string name="tab_text_2">Kedd</string>
+    <string name="tab_text_3">Szerda</string>
+    <string name="tab_text_4">Csütörtök</string>
+    <string name="tab_text_5">Péntek</string>
+</resources>
